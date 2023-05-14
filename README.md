@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
-<h1 align="center">Hi 👋, I'm Ferid AMir</h1>
+<h1 align="center">Hi 👋, I'm Ferid Amir</h1>
 <h3 align="center">A passionate Full-Stack Software Engineer from UAE</h3>
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjM2NTBkYWJlNTExNjdhZTczNWIyOGI0ZWNjZDJjZWNkNzU4NDNkZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="300"></img>
